@@ -1,3 +1,3 @@
-#DEmo 
+# DEMO 
 
-it is a god damn demo
+it is a demo
